@@ -1,0 +1,191 @@
+@media(max-width:500px){
+     .Hed h1{
+        font-size: 50px
+    }
+    .Hed .em h2{
+        font-size: 20px
+    }
+    .Hed .em div{
+        margin-left: 160px;
+        width: 70px
+    }
+    .h2{
+        font-size: 20px;
+    }
+    .story p{
+        font-size: 12px;
+    }
+    .rect{
+        margin-left: 130px
+    }
+    .center div img{
+        width: 100%;
+        padding: 10px
+    }
+     .big_day{
+        left: 0px;
+        width: 100%;
+        top: 1500px;
+    }
+    .big_day .rect{
+         margin-left: 190px
+    }
+    .big_day .when{
+      margin-left: 0 
+    }
+    .big_day .when h2{
+        font-size: 25px
+    }
+    .big_day .when p{
+        font-size: 13px
+    }
+    .big_day .line2{
+        margin-left: 200px
+    }
+    .big_day .where{
+        margin-right: 0px
+    }
+    .big_day .where h2{
+        font-size: 25px
+    }
+    .big_day .where p{
+        font-size: 13px
+    }
+    .alter .form .te1{
+    width: 500px;
+    }
+    .alter .form .e1{
+       width: 500px;
+    }
+}
+@media(max-width:768px){
+   .Hed h1{
+        font-size: 50px
+    }
+    .Hed .em h2{
+        font-size: 20px
+    }
+    .Hed .em div{
+        margin-left: 320px;
+        width: 70px
+    }
+    .h2{
+        font-size: 30px;
+    }
+    .story p{
+        font-size: 15px;
+    }
+    .rect{
+        margin-left: 300px
+    }
+    .big_day{
+        left: 0px;
+        width: 100%;
+        top: 1500px;
+    }
+    .big_day .la{
+        text-align: center
+    }
+    .big_day .rect{
+        margin-left: 350px
+    }
+    .big_day .when{
+        margin-left: 0px
+    }
+    .big_day .line2{
+        margin-left: 362px
+    }
+    .big_day .where{
+        margin-right: 0px
+    }
+    .alter .form .te1{
+        width: 760px
+    }
+    .alter .form .e1{
+         width: 760px
+    }
+    .center div img{
+        width: 100%;
+        padding: 20px
+    }
+}
+@media(min-width:769px) and (max-width:992px){
+    .navbar-nav{
+    margin-left: 45px
+}
+.navbar-nav > li {
+    margin-right: 10px;
+    
+}
+    .Hed .em div{
+        margin-left: 330px;
+        width: 70px
+    }
+      .rect{
+        margin-left: 350px
+    }
+      .big_day{
+        left: 80px;
+        width: 85%;
+        top: 1350px;
+    }
+    .big_day .la{
+        text-align: center
+    }
+    .big_day .rect{
+        margin-left: 300px
+    }
+    .big_day .when{
+        margin-left: 10px
+    }
+    .big_day .line2{
+        margin-left: 310px
+    }
+    .big_day .where{
+        margin-right: 110px
+    }
+    .big_day button{
+        margin-right: 110px
+    }
+    .story p{
+        font-size: 15px
+    }
+    .h2{
+        font-size: 25px
+    }
+}
+@media(min-width:993px) and (max-width:1200px){
+      .navbar-nav{
+    margin-left: 100px
+}
+.navbar-nav > li {
+    margin-right: 20px;
+    
+}
+    .Hed .em div{
+        margin-left: 430px;
+        width: 80px
+    }
+      .rect{
+        margin-left: 460px
+    }
+      .big_day{
+        left: 80px;
+        width: 85%;
+        top: 1350px;
+    }
+   
+    .big_day .when{
+        margin-left: 80px
+    }
+    .big_day .line2{
+        margin-left: 475px
+    }
+    .big_day .where{
+        margin-right: 120px
+    }
+     .center div img{
+        width: 100%;
+        padding: 20px
+    }
+}
